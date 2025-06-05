@@ -6,6 +6,7 @@
 /temp
 /tests
 .env
+.env.env
 .env.backup
 .phpunit.result.cache
 Homestead.json
